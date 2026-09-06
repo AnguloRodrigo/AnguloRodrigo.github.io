@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astrophysics, Johns Hopkins University, 2027 (expected)
+* M.A. in Physics, Johns Hopkins University, 2023
+* B.A. in Physics (Astrophysics), University of California - Santa Cruz, 2020
+* B.A. in Pure Mathematics, University of California - Santa Cruz, 2020
 
 Work experience
 ======
@@ -34,12 +35,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (e.g, numpy, scipy, matplotlib, astropy, astroscrappy, pandas)
+* MacOS and Windows
+* AstroImageJ, Aperture Photometry Tool (APT), DS9
+* Certified observer at:
+  * DECam on Blanco 4-m telescope at CTIO
+  * ARC 3.5-m telescope at APO
+  * Nickel 1-m telescope at Lick Observatory
+* Modules for Experiments in Stellar Astrophysics (MESA)
+* Gaia online database   
 
 Publications
 ======
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
